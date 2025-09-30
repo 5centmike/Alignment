@@ -16,3 +16,9 @@ My goal is to make you think.
 
 Tell me what you think.
 
+
+
+## License
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to share and adapt these stories with attribution for non-commercial purposes.
