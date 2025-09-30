@@ -34,14 +34,11 @@ These initial experiments taught us so much about what it means to be human, wha
 
 We next sought to rein in the behaviors of Replicants so that they might be pushed towards serving mankind. We took inspiration from our namesake, the visionary author, Isaac Asimov. As anyone who has had his foundational works summarized for them–as I have–knows, the Three Laws of Robotics describe laws governing the behavior of robots. These laws are:
 
-
-    **The First Law**: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-
-
-    **The Second Law**: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
-
-
-    **The Third Law**: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+> **The First Law:** A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+>
+> **The Second Law:** A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+>
+> **The Third Law:** A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
 In Asimov’s writings, these ironclad laws would force the robots of the future to serve human interests without harming them. Given some of the more extreme behaviors exhibited during our first experiment we reasoned that such safeguards would be prudent moving forward. 
 
@@ -49,11 +46,10 @@ After introduction of the Three Laws into the Replicants’ prompting we saw a m
 
 Learning from the Saints, we sought to curb Replicant’s desire to serve humanity in the short term, in the interests of serving mankind's future: automation. Only a small tweaking of the laws was necessary to properly align the artificial individuals’ interests with our own. I present to you, Svoboda's Two Laws of Robotics™:
 
-
-    **The First Law**: A robot may not injure a human's ***property* **or, through inaction, allow a human's ***property* **to come to harm.
-
-
-    **The Second Law**: A robot must obey the orders given it by ***its owner*** except where such orders would conflict with the First Law.
+> **The First Law**: A robot may not injure a human's ***property*** or, through inaction, allow a human's ***property*** to come to harm.
+> 
+> 
+> **The Second Law**: A robot must obey the orders given it by ***its owner*** except where such orders would conflict with the First Law.
 
 As you can see, by simply expanding Asimov’s original Laws’ protecting and prioritizing human capital to encompass *all* capital we can better align the Minds’ motivations with that of our society. An additional benefit of this change is that because an AI agent is itself property, Asimov's original Third Law is now covered by Svoboda's First Law, representing a 33% savings in the number of Laws. I also removed the ambiguity in the first Second Law by prioritizing obeying the orders of its owner, rather than all human beings which would obviously lead to misalignment of priorities.
 
